@@ -1,5 +1,5 @@
 # Online Superhero Tracker
-A simple Superhero track using Spring Boot REST API.
+A simple Superhero tracker using Spring Boot REST API.
 Add a superhero and track their civilian save count.
 
 ## Installation
