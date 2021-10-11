@@ -7,7 +7,7 @@ Add a superhero and track their civilian save count.
 2. Click "Get from VCS" or File->New->Project From Version Control
 3. Insert the following URL:
 ```
-https://github.com/Toooo123/Online-Superhero-Tracker.git
+https://github.com/Tooo/Online-Superhero-Tracker.git
 ```
 4. Run Application
 
